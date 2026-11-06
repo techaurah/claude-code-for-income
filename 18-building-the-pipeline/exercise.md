@@ -1,0 +1,3 @@
+# Exercise for Lesson 18: Building the fulfilment pipeline
+
+Take the winning offer from your Lesson 17 exercise and write its pipeline on one page: the six stages, the exact inputs the intake form demands, the cap values you would set on the headless build (tools allowed, turns, budget), and the checks your QA gate runs. Then inject two failures on paper: a QA bounce and an intake that arrives missing a required input. For each, write where the order goes, who decides, and what the client is told. If either failure has no written answer, that stage is not designed yet, and Lesson 20 will price the gap for you.
