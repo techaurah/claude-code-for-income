@@ -1,0 +1,3 @@
+# Exercise for Lesson 24: Launch, pricing, and the churn math
+
+Write your launch sequence for the Lesson 22 product in order: the named audience you already have, the one partner or channel you will widen to second, and the public step you will take last, each with the condition that must be true before you move on. Then run your own scenario through `churn_math.py` at your real expected churn, if you have one, or at 5, 8, and 12 percent if you do not, and compute gross and net LTV at each rate using your Lesson 23 margin. Finish by choosing the single retention fix you would fund before any acquisition spend, and write the churn movement it would need to produce to pay for itself.

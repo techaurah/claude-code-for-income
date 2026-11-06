@@ -1,0 +1,8 @@
+{
+  "_about": "WORKED EXAMPLE scenario for Lesson 24. A model with stated assumptions, not a forecast.",
+  "starting_subscribers": 40,
+  "monthly_adds": 12,
+  "churn_percent": 8,
+  "price_usd_per_month": 15,
+  "months": 12
+}
