@@ -1,0 +1,5 @@
+# Solution for Lesson 20: Fulfilment at volume: queues, failures, and refunds
+
+The fixtures are the worked solution. At 90 minutes per order and 600 capacity minutes a week, the pipeline serves six orders a week. The calm pattern, two to three arrivals, never builds a backlog and never breaches, which is what a sustainable productized practice actually looks like from inside: slightly boring, every week.
+
+The overloaded pattern tells the real story. Backlog grows from week one, yet breaches, orders waiting past the two week limit, only appear in weeks seven and eight, eleven breach-weeks in total. The queue became unrecoverable in week five, when the backlog passed two weeks of capacity while arrivals still exceeded service. So the seller had a clear signal in week five, felt fine through week six, and met angry buyers in week seven. Every part of this module's discipline, minutes over orders, backlog triggers over breach triggers, a drafted pause over an improvised one, exists to move your decision from week seven to week five.
