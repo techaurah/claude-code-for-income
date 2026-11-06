@@ -1,0 +1,5 @@
+# Solution for Lesson 28: Failure modes and ethics: staying in business
+
+The example project seeds all eight risks in the catalogue. It is client work, so disclosure, scope creep, single-client dependence, and the commodity trap always apply. Its deliverables include a system, which is code, so IP contamination and licence violation are seeded. It names channels, so platform terms apply. Its data touched list includes contact details, so the sensitive data risk is seeded.
+
+The worked completions for the two highest stakes entries: disclosure is owned by the practitioner, with the control being the proposal sentence plus a delivery note restating the method, checked before the proposal is sent. Sensitive data is owned by the practitioner with the client as reviewer, with the control being the written data inventory and retention rule from Lesson 27, completed before the first live enquiry is processed. A project with no code deliverable and no channels would seed only the four always risks, which is the generator teaching proportionality: the register grows with the project's real exposure, not with anxiety.
