@@ -1,0 +1,3 @@
+# Exercise for Lesson 00: Course setup: environment, accounts, and your cost baseline
+
+Write your baseline with `--write`, then change all four numbers to your real ones: your actual plan and price, the rate you would charge a stranger, the fee of the channel your next client most likely arrives through, and the hours you honestly have. Then, on paper, compute your break-even hours for your plan at your rate (price divided by rate) and write the result into the baseline file as a note to yourself. If the answer is larger than the hours the tool plausibly saves you in a month, that is a finding, not a failure: Lesson 10 is where you act on it.
