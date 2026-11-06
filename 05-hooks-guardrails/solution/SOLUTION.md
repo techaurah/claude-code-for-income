@@ -1,0 +1,5 @@
+# Solution for Lesson 05: Hooks: guardrails that make autonomy safe to sell
+
+The shipped guard is the worked solution for the three patterns in the lesson. Feeding it `rm -rf build` denies with the recursive delete reason. Feeding it a read of `.env` denies with the secret file reason, and a force push denies with the force push reason. Feeding it a normal test command or a read of a source file allows, with no pattern matched. The simulator prints all seven sample decisions, and the deny cases also exit with code 2 when the guard runs as a script.
+
+A good exercise answer follows the same shape: one new pattern, one plain reason, and a safe neighbour case that still allows. If your pattern also blocked the safe case, narrow it with the production marker (an environment name, a target flag, a folder) rather than dropping the rule. Guards earn trust by being precise. A guard that blocks daily work gets bypassed, and a bypassed guard is the one failure mode worse than having no guard at all.
