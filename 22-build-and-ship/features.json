@@ -1,0 +1,62 @@
+{
+  "_about": "Feature list for Lesson 22. Size is in points. Risk is high, medium, or low. Slice means the feature belongs to the thin end to end slice. Work is agent or human.",
+  "weekly_capacity_points": 10,
+  "features": [
+    {
+      "name": "Core booking flow end to end",
+      "size": 4,
+      "risk": "high",
+      "slice": true,
+      "work": "human"
+    },
+    {
+      "name": "Reminder sender",
+      "size": 3,
+      "risk": "high",
+      "slice": true,
+      "work": "agent"
+    },
+    {
+      "name": "Sign-in and accounts",
+      "size": 3,
+      "risk": "medium",
+      "slice": true,
+      "work": "agent"
+    },
+    {
+      "name": "Billing and invoices",
+      "size": 5,
+      "risk": "high",
+      "slice": false,
+      "work": "human"
+    },
+    {
+      "name": "Weekly summary report",
+      "size": 3,
+      "risk": "low",
+      "slice": false,
+      "work": "agent"
+    },
+    {
+      "name": "Settings and preferences",
+      "size": 2,
+      "risk": "low",
+      "slice": false,
+      "work": "agent"
+    },
+    {
+      "name": "Data export",
+      "size": 3,
+      "risk": "medium",
+      "slice": false,
+      "work": "agent"
+    },
+    {
+      "name": "Onboarding checklist",
+      "size": 2,
+      "risk": "low",
+      "slice": false,
+      "work": "agent"
+    }
+  ]
+}

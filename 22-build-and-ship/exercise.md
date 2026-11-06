@@ -1,0 +1,3 @@
+# Exercise for Lesson 22: Build and ship: a real product cadence with agents
+
+Write the feature list for your Lesson 21 survivor as JSON in the shape of `features.json`. Mark the slice honestly: a feature is in the slice only if the core outcome breaks without it. Label the work split, estimate sizes, and generate the plan. Then simulate a slip: add four points to your riskiest feature and regenerate. Write down what the cut rule removes and whether the release still does the core thing without it. If it does not, your slice markings were wrong, and fixing them now, on paper, is the cheapest correction this module offers.
