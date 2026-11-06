@@ -1,0 +1,63 @@
+{
+  "_about": "Product problems for Lesson 21. Each criterion needs a score from 1 to 5 and a non-empty evidence note. Maintenance is scored as lightness of tail: 5 means light, 1 means heavy.",
+  "criteria": [
+    "pain_severity",
+    "frequency",
+    "ability_to_pay",
+    "distribution_reach",
+    "maintenance_lightness"
+  ],
+  "problems": [
+    {
+      "name": "No-show reminders and rebooking for clinics",
+      "scores": {
+        "pain_severity": 5,
+        "frequency": 5,
+        "ability_to_pay": 4,
+        "distribution_reach": 4,
+        "maintenance_lightness": 4
+      },
+      "evidence": {
+        "pain_severity": "Clinic owners name empty slots as lost revenue in discovery calls",
+        "frequency": "Appointments run daily in every clinic",
+        "ability_to_pay": "Clinics already pay for booking software",
+        "distribution_reach": "Reachable through the med spa and clinic audience built in Module 5",
+        "maintenance_lightness": "Reminder rules change rarely, integrations are stable"
+      }
+    },
+    {
+      "name": "Invoice chasing helper for a solo practice",
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 4,
+        "ability_to_pay": 3,
+        "distribution_reach": 3,
+        "maintenance_lightness": 4
+      },
+      "evidence": {
+        "pain_severity": "Late payment is a recurring complaint in solo practice forums",
+        "frequency": "Invoices are issued weekly in a typical practice",
+        "ability_to_pay": "Solo practices pay for accounting tools but budgets are thin",
+        "distribution_reach": "No existing audience, reach depends on partner accountants",
+        "maintenance_lightness": "Templates and schedules are stable once set"
+      }
+    },
+    {
+      "name": "Fully autonomous tax filing for freelancers",
+      "scores": {
+        "pain_severity": 5,
+        "frequency": 2,
+        "ability_to_pay": 5,
+        "distribution_reach": 2,
+        "maintenance_lightness": 1
+      },
+      "evidence": {
+        "pain_severity": "Tax deadlines cause acute stress each year",
+        "frequency": "Filing is annual for most freelancers, so use is rare",
+        "ability_to_pay": "Freelancers pay accountants significant annual fees",
+        "distribution_reach": "No trusted channel into this audience yet",
+        "maintenance_lightness": "Tax rules change every year in every jurisdiction, so the tail is heavy and risky"
+      }
+    }
+  ]
+}

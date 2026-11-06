@@ -1,0 +1,3 @@
+# Exercise for Lesson 21: Micro-SaaS: choosing a problem worth a product
+
+List five problems you have personally watched a business suffer in the last year, not problems you imagine a business might have. Score all five in a copy of `problems.json`, with an evidence note for every criterion that a sceptical partner could check. Kill what the kill line kills, in writing, with the criterion named. Then take the survivor and write the cheapest test that could raise or lower its weakest evidence note within one week: a set of calls, a landing page shown to an audience you have, a price asked out loud. If no such test exists, the distribution score was generous, and you know what to fix.
