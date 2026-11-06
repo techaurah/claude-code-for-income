@@ -1,0 +1,3 @@
+# Exercise for Lesson 27: Selling to teams: security, IP, and contracts
+
+Answer the readiness checker honestly for your own practice and print the gap list. Then close the cheapest gap completely: write the one page document it asks for (the subprocessor list is usually the fastest honest win). Draft the IP paragraph for your standard engagement in plain words: who owns the code, who owns the prompts and configuration, what you keep, and how the client maintains the system without you. End by writing your start rule as one sentence you would send to a client who just said yes on a call. This exercise is orientation, not legal advice: anything destined for a real signature goes past a lawyer first.
