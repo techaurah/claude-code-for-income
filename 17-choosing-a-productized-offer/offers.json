@@ -1,0 +1,29 @@
+{
+  "_about": "Candidate offers for Lesson 17. Scores are 1 to 5. Support load is inverted when scoring: a heavy support load lowers the total.",
+  "offers": [
+    {
+      "name": "Enquiry response package for med spas",
+      "buyer_clarity": 5,
+      "pain_urgency": 5,
+      "scope_boundedness": 5,
+      "delivery_repeatability": 5,
+      "support_load": 2
+    },
+    {
+      "name": "Bespoke data migration for one client system",
+      "buyer_clarity": 3,
+      "pain_urgency": 4,
+      "scope_boundedness": 2,
+      "delivery_repeatability": 2,
+      "support_load": 4
+    },
+    {
+      "name": "Generic AI chatbot for anyone",
+      "buyer_clarity": 1,
+      "pain_urgency": 2,
+      "scope_boundedness": 1,
+      "delivery_repeatability": 3,
+      "support_load": 5
+    }
+  ]
+}

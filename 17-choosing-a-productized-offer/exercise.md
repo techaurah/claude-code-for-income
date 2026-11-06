@@ -1,0 +1,3 @@
+# Exercise for Lesson 17: Productized services: choosing an offer that repeats
+
+Take three services you could plausibly sell in the next quarter and add them to a copy of `offers.json`. Score each one, then write one sentence of evidence under each score the way Lesson 21 will later force you to. If any candidate has a criterion you cannot evidence, lower that score until the evidence exists, and note what conversation or test would raise it honestly. Keep the generic, anyone-can-buy version of your best idea in the list as a control: if the specific version does not clearly outrank it, your buyer is not specific enough yet.
