@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420">
+<rect width="1180" height="420" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">The delivery pipeline: how paid work flows</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Module 4's spine. The amber step is the one that protects your rate: nothing reaches the client ungated.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="40" y="160" width="160" height="96" rx="8" fill="#0B1F4A"/>
+<text x="120.0" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Discovery</text>
+<line x1="202" y1="208" x2="224" y2="208" stroke="#0891B2" stroke-width="3"/>
+<polygon points="224,208 214,202 214,214" fill="#0891B2"/>
+<rect x="228" y="160" width="160" height="96" rx="8" fill="#E0F2FE"/>
+<text x="308.0" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Scope and</text>
+<text x="308.0" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">estimate</text>
+<line x1="390" y1="208" x2="412" y2="208" stroke="#0891B2" stroke-width="3"/>
+<polygon points="412,208 402,202 402,214" fill="#0891B2"/>
+<rect x="416" y="160" width="160" height="96" rx="8" fill="#E0F2FE"/>
+<text x="496.0" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Fixed price</text>
+<line x1="578" y1="208" x2="600" y2="208" stroke="#0891B2" stroke-width="3"/>
+<polygon points="600,208 590,202 590,214" fill="#0891B2"/>
+<rect x="604" y="160" width="160" height="96" rx="8" fill="#E0F2FE"/>
+<text x="684.0" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Build with</text>
+<text x="684.0" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">the stack</text>
+<line x1="766" y1="208" x2="788" y2="208" stroke="#0891B2" stroke-width="3"/>
+<polygon points="788,208 778,202 778,214" fill="#0891B2"/>
+<rect x="792" y="160" width="160" height="96" rx="8" fill="#F59E0B"/>
+<text x="872.0" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">QA GATE</text>
+<line x1="954" y1="208" x2="976" y2="208" stroke="#0891B2" stroke-width="3"/>
+<polygon points="976,208 966,202 966,214" fill="#0891B2"/>
+<rect x="980" y="160" width="160" height="96" rx="8" fill="#0B1F4A"/>
+<text x="1060.0" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Handover</text>
+<text x="40" y="320" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Support and rehire (Lesson 16) loop back from Handover: the cheapest client is the one who already trusts you.</text>
+<text x="40" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Every stage has an artifact in this course: notes, estimate, price model, QA record, delivery pack.</text>
+</svg>

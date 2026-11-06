@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520">
+<rect width="1180" height="520" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">The cost stack: three ways to pay for the same agent</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">US list prices checked October 2026. Break-even hours = monthly price divided by your billable rate.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<text x="40" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">Pro, $20/mo</text>
+<rect x="330" y="160" width="420" height="26" fill="#E2E8F0"/>
+<rect x="330" y="160" width="42" height="26" fill="#0891B2"/>
+<text x="770" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Side projects, first clients</text>
+<text x="40" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">Max 5x, $100/mo</text>
+<rect x="330" y="224" width="420" height="26" fill="#E2E8F0"/>
+<rect x="330" y="224" width="210" height="26" fill="#0891B2"/>
+<text x="770" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Daily client work, one practice</text>
+<text x="40" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">Max 20x, $200/mo</text>
+<rect x="330" y="288" width="420" height="26" fill="#E2E8F0"/>
+<rect x="330" y="288" width="420" height="26" fill="#0891B2"/>
+<text x="770" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Heavy parallel and headless volume</text>
+<text x="40" y="362" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">API route, per million tokens in/out: Sonnet class $2/$10, Opus class $4/$20, Haiku class $0.10/$0.50. Batch work: half price.</text>
+<text x="40" y="394" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Worked example: a $100 plan at a $50 rate breaks even at 2 saved hours a month. Below that, the plan is a hobby cost.</text>
+<text x="40" y="426" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Max plans also return their price as monthly API credit. Free third-party tiers exist, with terms caveats (Lesson 10).</text>
+</svg>

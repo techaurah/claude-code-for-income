@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520">
+<rect width="1180" height="520" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">The four income tracks</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Same workstation, four ways to package it (Modules 4 to 7). Cycle = typical time from first contact to paid work starting.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="40" y="150" width="250" height="84" rx="8" fill="#0B1F4A"/>
+<text x="165.0" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Freelance and</text>
+<text x="165.0" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">agency delivery</text>
+<rect x="40" y="246" width="250" height="120" rx="8" fill="#FFFFFF"/>
+<text x="165.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Sell: scoped projects</text>
+<text x="165.0" y="311" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Buyer: one client</text>
+<text x="165.0" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Cycle: days to weeks</text>
+<rect x="322" y="150" width="250" height="84" rx="8" fill="#E0F2FE"/>
+<text x="447.0" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0B1F4A" text-anchor="middle">Productized</text>
+<text x="447.0" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0B1F4A" text-anchor="middle">services</text>
+<rect x="322" y="246" width="250" height="120" rx="8" fill="#FFFFFF"/>
+<text x="447.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Sell: a fixed package</text>
+<text x="447.0" y="311" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Buyer: many, same offer</text>
+<text x="447.0" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Cycle: days</text>
+<rect x="604" y="150" width="250" height="84" rx="8" fill="#E0F2FE"/>
+<text x="729.0" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0B1F4A" text-anchor="middle">Indie products</text>
+<text x="729.0" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#0B1F4A" text-anchor="middle">and micro-SaaS</text>
+<rect x="604" y="246" width="250" height="120" rx="8" fill="#FFFFFF"/>
+<text x="729.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Sell: subscriptions</text>
+<text x="729.0" y="311" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Buyer: a market</text>
+<text x="729.0" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Cycle: weeks to months</text>
+<rect x="886" y="150" width="250" height="84" rx="8" fill="#0B1F4A"/>
+<text x="1011.0" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Automation</text>
+<text x="1011.0" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">consulting</text>
+<rect x="886" y="246" width="250" height="120" rx="8" fill="#FFFFFF"/>
+<text x="1011.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Sell: audits, retainers</text>
+<text x="1011.0" y="311" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Buyer: a business</text>
+<text x="1011.0" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#0B1F4A" text-anchor="middle">Cycle: weeks</text>
+<text x="40" y="420" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Most durable practices stack two: delivery income funds the product, the audit feeds the retainer.</text>
+<text x="40" y="452" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Demand context with sources and limits: Lesson 01. Nothing in this diagram is an earnings figure.</text>
+</svg>

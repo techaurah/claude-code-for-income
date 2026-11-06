@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="480" viewBox="0 0 1180 480">
+<rect width="1180" height="480" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">Four ways to run Claude Code unattended</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Pick by trigger and supervision, not by fashion (Lesson 08). All four bill against the same plan or API account.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="40" y="150" width="250" height="64" rx="8" fill="#0B1F4A"/>
+<text x="165.0" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Background agents</text>
+<rect x="40" y="226" width="250" height="120" rx="8" fill="#E0F2FE"/>
+<text x="165.0" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Agent View</text>
+<text x="165.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">You start it, it works</text>
+<text x="165.0" y="312" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">while you do other work</text>
+<rect x="322" y="150" width="250" height="64" rx="8" fill="#0B1F4A"/>
+<text x="447.0" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Headless mode</text>
+<rect x="322" y="226" width="250" height="120" rx="8" fill="#E0F2FE"/>
+<text x="447.0" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">claude -p</text>
+<text x="447.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Scripts, cron, CI</text>
+<text x="447.0" y="312" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Caps: turns and budget</text>
+<rect x="604" y="150" width="250" height="64" rx="8" fill="#0B1F4A"/>
+<text x="729.0" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">In-session loop</text>
+<rect x="604" y="226" width="250" height="120" rx="8" fill="#E0F2FE"/>
+<text x="729.0" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">/loop</text>
+<text x="729.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Repeats a prompt</text>
+<text x="729.0" y="312" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">inside an open session</text>
+<rect x="886" y="150" width="250" height="64" rx="8" fill="#0B1F4A"/>
+<text x="1011.0" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Cloud scheduled</text>
+<rect x="886" y="226" width="250" height="120" rx="8" fill="#E0F2FE"/>
+<text x="1011.0" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Scheduled tasks</text>
+<text x="1011.0" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Fire on time, API call,</text>
+<text x="1011.0" y="312" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">or GitHub event</text>
+<text x="40" y="400" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">The GitHub Action is headless mode with a repository trigger: same discipline, different door.</text>
+<text x="40" y="432" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Every unattended run needs the Lesson 05 gates first: allowlists, budgets, and a human review point.</text>
+</svg>
