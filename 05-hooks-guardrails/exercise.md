@@ -1,0 +1,3 @@
+# Exercise for Lesson 05: Hooks: guardrails that make autonomy safe to sell
+
+Change the guard for a stack you actually use. Pick one destructive action in your stack that the shipped patterns do not cover (a cloud delete command, a production deploy script, a database reset in your framework) and add a deny pattern for it to a copy of `guard.py`, with a reason written for a human. Then add two sample events for it to `hook_sim.py`: the dangerous form, which must deny, and the safe local form of the same tool, which must allow. If you cannot write a pattern that separates the two, that is the finding: write one paragraph on why that action needs a human approval step instead of a pattern, and where in the engagement you would put it.
