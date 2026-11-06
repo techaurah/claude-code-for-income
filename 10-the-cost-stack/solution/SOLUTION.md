@@ -1,0 +1,5 @@
+# Solution for Lesson 10: The cost stack: plans, API, and free routes
+
+A worked profile: 30 interactive hours, a $75 rate, and two headless jobs, a Sonnet summary job at 2 million input and 500,000 output tokens ($9.00) and a Haiku triage job at 5 million input and 1 million output tokens ($1.00). The API route totals $10. On Max 5x the $100 credit absorbs that $10, so the cash total stays $100 and the plan is the cheapest defensible home for this profile once interactive limits are counted. On Pro the same month costs $20 plus $10 of API, $30 in cash, which is cheaper still if Pro limits genuinely fit the interactive work.
+
+The habit change that usually wins is class routing. Moving the summary job to a premium class would multiply its price several times for no delivery gain, while batching it would halve it to $4.50. The free route sentence fails the test on purpose: there is no honest one sentence version that covers training on prompts, small capacity, and off-label terms for client data, which is why the tool excludes it.
