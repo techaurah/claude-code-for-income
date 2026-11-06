@@ -1,0 +1,3 @@
+# Exercise for Lesson 19: Packaging: the pricing page and the promise you can keep
+
+Write the package definition for your Lesson 18 pipeline as JSON in the shape of `packages.json`: one package, plus an add-on only if the pipeline work genuinely differs. Write at least three exclusions, and make one of them the exclusion you most fear a buyer will push against. Then write your guarantee in two sentences using the lesson's pattern, and read it as the buyer you least want to argue with. If any sentence promises a result your system does not control, rewrite it before the renderer ever sees the file.

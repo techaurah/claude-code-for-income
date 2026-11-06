@@ -1,0 +1,40 @@
+{
+  "_about": "Package set for Lesson 19. One real package plus one optional add-on. Prices in the worked example are teaching inputs, not market data.",
+  "packages": [
+    {
+      "name": "Enquiry Response System for Lumen Med Spa",
+      "outcome": "Every new enquiry answered within minutes, qualified, and offered a booking slot",
+      "price_note": "WORKED EXAMPLE price: set from your Lesson 00 baseline and Lesson 14 cost floor. Change it to yours before quoting anyone.",
+      "inclusions": [
+        "Intake form connected to Instagram DMs and the website form",
+        "Qualification questions and booking link handover",
+        "Follow-up sequence for enquiries that go quiet",
+        "Weekly summary of enquiries, bookings, and unanswered questions"
+      ],
+      "exclusions": [
+        "No paid advertising management",
+        "No rewrite of the full website",
+        "No out of hours human phone cover"
+      ],
+      "revision_rounds": 2,
+      "delivery_days": 10,
+      "support_window": "14 days of fixes for defects in the delivered scope after handover"
+    },
+    {
+      "name": "Add-on: Second Location Setup",
+      "outcome": "The same system configured for a second Lumen Med Spa location",
+      "price_note": "WORKED EXAMPLE add-on: priced only as an addition to the main package, never sold alone.",
+      "inclusions": [
+        "Location specific hours, services, and booking link",
+        "Separate weekly summary for the location"
+      ],
+      "exclusions": [
+        "No new qualification logic beyond the main package",
+        "No staff training sessions"
+      ],
+      "revision_rounds": 1,
+      "delivery_days": 3,
+      "support_window": "Covered by the main package support window"
+    }
+  ]
+}
