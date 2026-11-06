@@ -1,0 +1,5 @@
+# Solution for Lesson 29: Capstone spec: the Lumen Med Spa engagement
+
+The checker passes every check on the shipped pack. The arithmetic, shown once in full: the build-up is 250 plus 950 plus 300 plus 200 plus 150, which is 1,850, the stated fixed price. The cost floor is 9 hours at $75, which is 675, plus a $25 plan share, plus $20 of measured API cost, which is 720. The gross margin is 1,850 minus 720, which is 1,130, before any platform fee, on a direct client, as the assumptions list states.
+
+The trace the exercise asks for, worked on the follow-up sequence: the brief asks for a follow-up sequence for enquiries that go quiet, the discovery notes record that follow-up today is ad hoc with no sequence and no record, and the build element of the price covers building that sequence. Brief, evidence, price: three documents, one line, no gaps. The softest statement in the pack is the open diary access item in the discovery notes, and the correct handling is exactly what the notes model: it is recorded as open, in the pack, before pricing, rather than discovered mid-build at the practitioner's cost.
