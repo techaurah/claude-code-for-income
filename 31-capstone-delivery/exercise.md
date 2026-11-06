@@ -1,0 +1,3 @@
+# Exercise for Lesson 31: Capstone delivery: the pack and the self-grading rubric
+
+Assemble the capstone pack checklist with the generator, then grade the pack against all six rubric criteria from the evidence in Lessons 29 and 30, in writing, before reading the solution. For every criterion below 3, write the specific fix that would raise it and the evidence the fix would add to the pack. Then run your grades through the scorer and record the verdict. If your verdict and the worked solution's verdict differ, write one paragraph on which evidence reading you trust more, and why. Submit the finished pack to the course showcase as the README describes.
