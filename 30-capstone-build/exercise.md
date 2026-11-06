@@ -1,0 +1,3 @@
+# Exercise for Lesson 30: Capstone run: build, QA gate, and the honest numbers
+
+Write the QA gate list for an engagement of your own before you build anything in it: at least eight checks, each traceable to a line in a brief or a discovery note, and at least one check that protects a person rather than a feature (an opt-out, a hand-off, a refusal). Then run the simulator on the shipped record and on your doctored copy, and write down, in two sentences, what evidence you would accept from your own build that it is ready. If your evidence standard is weaker than the record in this folder, the exercise has found its point.
