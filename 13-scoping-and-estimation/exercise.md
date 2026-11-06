@@ -1,0 +1,3 @@
+# Exercise for Lesson 13: Scoping and estimation when an agent does the typing
+
+Scope a job you know well, real or realistic, as a JSON task list for `scope_estimator.py`. Every task needs the split: agent hours, human hours, and an uncertainty class you can defend in one sentence. Run the estimator and write down the range. Then list, in plain text under the scope, at least four exclusions a buyer might otherwise assume are included, and a counted revision policy. If any task came out with zero human hours, redo it: zero human time means you forgot review, judgement, or client handling, and the estimator cannot save a task you misdescribed.
