@@ -1,0 +1,3 @@
+# Exercise for Lesson 03: Skills as capital: a library that sells twice
+
+Pick a workflow from your own work that passes the four part test in the lesson, but do not copy the QA checklist. Good candidates change the worked example in a real way: a client onboarding check, a migration review, or a content QA pass for a different kind of delivery. Write it as a complete skill in a new folder: frontmatter with a name and a triggering description, then numbered steps that state what a pass and a fail look like. Run `skill_audit.py` on your folder. If the audit passes on the first try, make the description harder to trigger by accident: narrow the "use when" moment until a neighbouring task would not match it.
