@@ -1,0 +1,3 @@
+# Exercise for Lesson 14: Pricing the work: fixed, anchored, and defensible
+
+Take the scope from your Lesson 13 exercise and price it with `price_model.py`: your human hours, your target rate, your real plan share, and an API estimate from Lesson 11. Write down the floor. Then compute the fee adjusted floor for the channel your next client will most likely arrive through, and the margin at a price you would actually propose. Finally, write the value anchor sentence from discovery, in the client's words if you have them. If you cannot write that sentence, your next action is another discovery question, not a discount.
