@@ -1,0 +1,5 @@
+# Solution for Lesson 22: Build and ship: a real product cadence with agents
+
+The generated fixture plan is the worked solution. Week 1 holds exactly the slice, the core booking flow, the reminder sender, and sign-in, sorted riskiest first and landing exactly on the ten point capacity. That precision is not luck: the sizes were set so the slice fits, which is the scope freeze doing its job before the plan ever ran. If your slice does not fit week 1, the honest moves are to shrink the slice or shrink a feature, never to raise capacity with optimism.
+
+Weeks 2 and 3 take billing, export, onboarding, settings, and the summary report, and week 4 is deliberately empty of new features. It holds hardening, the ship checklist, and the rollback rehearsal. The overload case in the smoke test shows the other half of the system: force too many points in and the generator flags the week and names the cut, the lowest risk non-slice feature, so the decision arrives as arithmetic while there is still time to act on it, instead of as a feeling in week 4.
