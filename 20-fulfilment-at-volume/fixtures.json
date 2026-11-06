@@ -1,0 +1,26 @@
+{
+  "_about": "Two deterministic arrival patterns for Lesson 20. Minutes per order and weekly capacity are worked example inputs.",
+  "minutes_per_order": 90,
+  "weekly_capacity_minutes": 600,
+  "sla_weeks": 2,
+  "overloaded_arrivals": [
+    8,
+    8,
+    9,
+    10,
+    10,
+    11,
+    11,
+    12
+  ],
+  "calm_arrivals": [
+    2,
+    3,
+    2,
+    3,
+    2,
+    3,
+    2,
+    3
+  ]
+}

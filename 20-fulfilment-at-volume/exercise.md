@@ -1,0 +1,3 @@
+# Exercise for Lesson 20: Fulfilment at volume: queues, failures, and refunds
+
+Run your own numbers through the simulator. Take your Lesson 18 minutes per order, including a realistic share of QA bounces, and your honest weekly fulfilment minutes. Write three arrival patterns: the launch you expect, the launch you hope for, and the launch you fear. For the feared pattern, find your unrecoverable week and set your pause trigger one week of backlog before it. Then draft, in full, the two messages that pattern would need: the pause notice for new buyers and the delay notice for waiting buyers. A trigger without its messages is a decision you will still have to make under pressure.
