@@ -1,0 +1,15 @@
+{
+  "_about": "WORKED EXAMPLE profile for Lesson 23. All numbers are teaching inputs you can change. Token prices are the Sonnet class list prices checked October 2026: $2 per million input, $10 per million output.",
+  "product": "Reminder tool for a fictional solo practice",
+  "users": 120,
+  "price_usd_per_user_per_month": 15,
+  "tickets_per_100_users_per_month": 8,
+  "minutes_per_ticket": 18,
+  "support_hourly_rate_usd": 40,
+  "hosting_usd_per_month": 45,
+  "agent_runs_per_month": 12,
+  "input_tokens_per_run": 400000,
+  "output_tokens_per_run": 80000,
+  "input_price_per_million_usd": 2,
+  "output_price_per_million_usd": 10
+}

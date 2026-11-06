@@ -1,0 +1,3 @@
+# Exercise for Lesson 23: Maintenance economics: keeping a product alive cheaply
+
+Build the ledger for your Lesson 22 product before it has users, using estimates you label as estimates. Log your real support minutes for one week on any product or service you already run, and replace the guessed minutes per ticket with the measured number; most builders find the guess was half the truth. Then compute the price floor at three user counts, 10, 100, and 1,000, and note where support time overtakes hosting as the largest line. That crossover point is where your next automation investment belongs, and Lesson 24 will assume you know it.
