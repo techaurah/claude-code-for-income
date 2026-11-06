@@ -1,0 +1,5 @@
+# Solution for Lesson 02: CLAUDE.md systems: memory that compounds
+
+The shipped examples are the worked solution in miniature. The project file at `examples/CLAUDE.md` carries commands, conventions, and boundaries, and the linter reports no missing sections and a word count inside the budget. The directory file at `examples/api/CLAUDE.md` deliberately reports missing sections: a narrow file covering webhooks, versioning, and logging does not need a full project command list, because the project layer already supplies it.
+
+A good split for most projects looks the same. Personal preferences and hard personal boundaries go up to the user layer. Install, test, and lint commands, shared conventions, and project boundaries sit at the root. A risky folder gets a short local file that adds only its own hazards. If your project file was over budget, the lines to cut first are history and vague advice, not commands. Commands and boundaries are the entries that change actions, so they are the last thing to prune.
