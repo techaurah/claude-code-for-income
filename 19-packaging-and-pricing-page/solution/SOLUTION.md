@@ -1,0 +1,5 @@
+# Solution for Lesson 19: Packaging: the pricing page and the promise you can keep
+
+The fixture is the worked solution. One package for Lumen Med Spa, one add-on for a second location, and no ladder. The main package names its outcome in the buyer's terms, lists four inclusions that map line for line onto the Lesson 18 pipeline, and states three exclusions plainly, including the phone cover boundary that med spa buyers most often assume is included. Two revision rounds and a ten day delivery time carry the QA bounce inside them, and the support window runs fourteen days from handover, not from purchase.
+
+The add-on earns its place because the work differs: new hours, new services, a new booking link, a separate summary. It also carries its own exclusions, which is why the validator passes it. The refusal case is the other half of the solution. A package with no exclusions fails validation and the page does not render, because a page that cannot say what is out has not finished the only job that justifies its price: bounding the promise before the money moves.
