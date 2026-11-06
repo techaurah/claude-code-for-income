@@ -1,0 +1,5 @@
+# Solution for Lesson 07: Headless mode and the Agent SDK: the agent as a program
+
+The demo spec in `headless_driver.py` is the worked solution for command construction. It builds a `claude -p` call with the test summary prompt, an allowlist of Read and Bash, the default permission mode, a turn cap of 10, a budget cap of 2.00 in the spec's own currency field, and JSON output. Those cap values are a worked example with the assumption printed in the lesson: a small, bounded job. On a machine without the `claude` CLI, running the driver prints that command and exits cleanly, which is the correct behaviour for a review or a classroom.
+
+For the cost side, `cost_report.py` on the shipped `sample_output.json` prints one line with a cost of 0.4200, 6 turns, a duration of 45210 ms, no error, and the sample session id. If your second invented output changed only the cost and turns, only those two fields should move in the ledger line. That one to one movement is the test that your ledger is reading the run, not echoing your hopes about the run.
