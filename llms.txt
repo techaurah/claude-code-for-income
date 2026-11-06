@@ -1,0 +1,46 @@
+# Claude Code for Income
+
+A free, advanced course on running Claude Code as a business asset: the professional workstation (CLAUDE.md systems, skills, subagents, hooks, MCP, headless and scheduled automation), cost engineering (plans, API, free routes, cost per job), and the four income tracks (freelance and agency delivery, productized services, indie products and micro-SaaS, automation consulting), closing with a simulated client engagement capstone. Honest framing throughout: sourced platform data, dated prices, worked examples with stated assumptions, and no income promises anywhere.
+
+## Lessons
+
+- Lesson 00: Course setup: environment, accounts, and your cost baseline (00-course-setup/): A verified setup and the baseline every money lesson uses
+- Lesson 01: The honest economics: where the money actually is (01-the-honest-economics/): Platform demand data, its limits, and the complexity premium
+- Lesson 02: CLAUDE.md systems: memory that compounds (02-claude-md-systems/): Layered project memory, audited by a linter you run
+- Lesson 03: Skills as capital: a library that sells twice (03-skills-as-capital/): Package expertise once, deliver with it, sell it again
+- Lesson 04: Subagents and delegation: a team in a folder (04-subagents-and-delegation/): Specialist agents, dispatch rules, and review gates
+- Lesson 05: Hooks: guardrails that make autonomy safe to sell (05-hooks-guardrails/): Lifecycle gates that block the expensive mistakes
+- Lesson 06: MCP servers: connecting the agent to the client's world (06-mcp-force-multipliers/): Tool connections with a token budget you control
+- Lesson 07: Headless mode and the Agent SDK: the agent as a program (07-headless-and-agent-sdk/): Scripted runs with caps, JSON output, and measured cost
+- Lesson 08: CI and scheduled automation: work that runs while you sleep (08-ci-and-scheduled-automation/): GitHub Actions, scheduled tasks, and unattended discipline
+- Lesson 09: Parallel worktrees and background agents (09-worktrees-and-background/): Many streams at once without merge chaos
+- Lesson 10: The cost stack: plans, API, and free routes (10-the-cost-stack/): Break-even per route, with the terms caveats printed
+- Lesson 11: Token economics: knowing your cost per job (11-token-economics/): Caching, batch, and model routing on a real job ledger
+- Lesson 12: Positioning: selling outcomes, not hours (12-positioning-and-offers/): An offer canvas that names a buyer and a result
+- Lesson 13: Scoping and estimation when an agent does the typing (13-scoping-and-estimation/): Estimates that split agent time from your time
+- Lesson 14: Pricing the work: fixed, anchored, and defensible (14-pricing/): A price model with a floor, fees, and a value anchor
+- Lesson 15: Delivery QA: the review discipline that protects your rate (15-delivery-qa/): A QA gate that runs before the client sees anything
+- Lesson 16: Handover: documentation, training, and the rehire (16-handover-and-rehire/): The pack that ends projects and starts the next one
+- Lesson 17: Productized services: choosing an offer that repeats (17-choosing-a-productized-offer/): Score candidate offers on repeatability and margin
+- Lesson 18: Building the fulfilment pipeline (18-building-the-pipeline/): Intake to delivery as a gated, simulated pipeline
+- Lesson 19: Packaging: the pricing page and the promise you can keep (19-packaging-and-pricing-page/): Packages with boundaries a client can read
+- Lesson 20: Fulfilment at volume: queues, failures, and refunds (20-fulfilment-at-volume/): Capacity math before the queue teaches it to you
+- Lesson 21: Micro-SaaS: choosing a problem worth a product (21-choosing-the-product/): Score problems on pain, frequency, and ability to pay
+- Lesson 22: Build and ship: a real product cadence with agents (22-build-and-ship/): A four week plan with gates, not a vibe
+- Lesson 23: Maintenance economics: keeping a product alive cheaply (23-maintenance-economics/): The monthly ledger most product ideas die on
+- Lesson 24: Launch, pricing, and the churn math (24-launch-and-churn/): MRR, churn, and lifetime value with assumptions shown
+- Lesson 25: Automation consulting: the audit as the entry product (25-the-audit/): A scored audit that sells the fix honestly
+- Lesson 26: Retainers: structure, reporting, and renewal (26-retainers/): A monthly report a client can verify
+- Lesson 27: Selling to teams: security, IP, and contracts (27-selling-to-teams/): The readiness questions bigger buyers ask first
+- Lesson 28: Failure modes and ethics: staying in business (28-failure-modes-and-ethics/): Disclosure, IP, terms, and when not to automate
+- Lesson 29: Capstone spec: the Lumen Med Spa engagement (29-capstone-spec/): The brief, the discovery notes, the priced scope
+- Lesson 30: Capstone run: build, QA gate, and the honest numbers (30-capstone-build/): Execute the plan and record what the gate finds
+- Lesson 31: Capstone delivery: the pack and the self-grading rubric (31-capstone-delivery/): Assemble the pack and grade it before the solution
+
+## Key files
+
+- README.md: course landing page and lesson table
+- RESEARCH.md: competitor scan and the publish verdict the design answers
+- DESIGN.md: the design this repo was built to
+- resources/glossary.md: every course term in plain language
+- showcase/README.md: finished capstones from learners

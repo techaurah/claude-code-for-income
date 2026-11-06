@@ -1,0 +1,12 @@
+# Claude Code for Income: requirements
+#
+# The course's calculators, simulators, checkers, and smoke tests
+# run on the Python 3.11+ standard library alone, so a fresh clone
+# verifies with nothing installed.
+#
+# The subject of the course is Claude Code itself, which students
+# install separately (it ships with paid Claude plans, or works
+# with an Anthropic API account). Lessons that drive a live Claude
+# Code session say so at the top and degrade gracefully when the
+# `claude` CLI is absent. Nothing in this repository requires a
+# paid account to read, run offline, or verify.
