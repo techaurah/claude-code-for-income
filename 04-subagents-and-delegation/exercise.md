@@ -1,0 +1,3 @@
+# Exercise for Lesson 04: Subagents and delegation: a team in a folder
+
+Change the worked example instead of repeating it. Take a real job of yours that is not a booking form: a data cleanup, a documentation pass, or a small API addition. Split it into at least four bounded tasks, assign each to a named agent (you may add one new agent definition beyond the two shipped), and write the dependencies honestly: a task that only looks independent usually depends on a naming or interface decision. Save the list as JSON and run `dispatch_sim.py` on it, with one task in the bounce set. Then write, in two sentences, which task you would never let run without a human gate, and why that gate is human rather than another agent.
