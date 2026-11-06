@@ -1,0 +1,5 @@
+# Solution for Lesson 09: Parallel worktrees and background agents
+
+The demo tasks in `worktree_plan.py` are the clean worked solution. The plan gives the API handler merge position 1 with directory `../wt-api-handler` and branch `agent/api-handler`, the booking form position 2, and the docs position 3, following the dependency chain. No file appears in two lists, so the plan reports no collisions.
+
+Add a fourth task that also claims `src/api.py` and the plan changes in exactly one way: a collision entry naming that file and both tasks, with `has_collisions` set. That flag is the correct output, not an error in the planner. For the exercise resolution, the strongest default is the foundation task pattern: pull the shared file work into one early task owned by one agent, merge it first, and let both original streams depend on it. Sequencing the two streams also works and is simpler, at the cost of the parallelism you were trying to buy. Quietly editing one file list so the flag disappears, without changing who really edits the file, is the one answer this lesson marks wrong.
