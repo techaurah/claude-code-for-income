@@ -1,0 +1,3 @@
+# Exercise for Lesson 11: Token economics: knowing your cost per job
+
+Add one row to a copy of `jobs.csv` for a job you invent with a painful shape: a premium model class, a large input with no caching, and token counts that imply several retries. Price the file with `job_cost.py`, then fix the job on paper in three moves, one from each lever in the lesson: narrow the input reads, cache the stable context, or reroute the model class. Edit the row to match your fix, rerun the tool, and write the before and after costs side by side. Note which lever saved most, because that lever is probably your current default mistake.

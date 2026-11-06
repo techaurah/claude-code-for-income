@@ -1,0 +1,5 @@
+name,model,input_tokens,output_tokens,cached_input_tokens,batch
+intake-router,haiku,1000000,200000,0,false
+summarize-notes,sonnet,2000000,500000,1000000,false
+batch-reports,sonnet,4000000,1000000,0,true
+retry-storm-booking,opus,6000000,1500000,0,false
