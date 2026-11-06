@@ -1,0 +1,1 @@
+{"_about":"Invented sample in the documented headless JSON output shape, for teaching. Values are a worked example, not a real run.","duration_ms":45210,"is_error":false,"num_turns":6,"result":"Tests pass. No failures to summarise.","session_id":"sample-session-0001","subtype":"success","total_cost_usd":0.42,"type":"result","usage":{"input_tokens":12000,"output_tokens":1800}}
