@@ -1,0 +1,5 @@
+# Solution for Lesson 24: Launch, pricing, and the churn math
+
+The fixture model is the worked solution. Starting at 40 subscribers, adding 12 a month, churning 8 percent, at $15: month 1 ends at 48.8 subscribers and $732 of MRR, and month 12 ends at about 109.6 subscribers and about $1,643 of MRR. Lifetime is 1 divided by 0.08, which is 12.5 months, and gross LTV is $15 times 12.5, which is $187.50 before any Lesson 23 cost comes off. Every one of those numbers is a consequence of the stated assumptions, and the solution's first job is to keep them labelled that way.
+
+The comparison is the second half. At 4 percent churn with the same adds, lifetime doubles to 25 months, gross LTV doubles to $375, and month 12 MRR rises well past the 8 percent run, without one extra subscriber being acquired. That is why the module ends here rather than with acquisition tactics: for a product at this scale, the retention lever is larger, cheaper, and entirely inside the builder's control, while the acquisition lever must be pulled again every month at rising effort. Launch in sequence, price from the ledger, and then defend the bucket.
