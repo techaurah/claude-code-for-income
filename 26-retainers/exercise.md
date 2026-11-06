@@ -1,0 +1,3 @@
+# Exercise for Lesson 26: Retainers: structure, reporting, and renewal
+
+Take a system you have delivered, or the Lumen fixture in this folder, and write its retainer scope as a checkable list: systems watched, checks and their frequency, changes included, and response times by severity. Then write the out of scope list with the same care. Build a one month activity log from your own records if you have them, or extend the fixture, and run the report builder. Finally, price the retainer from measured load: log your real maintenance hours for one week, multiply up honestly, add measured run costs, and write the floor down next to the scope.
