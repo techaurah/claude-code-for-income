@@ -1,0 +1,3 @@
+# Exercise for Lesson 29: Capstone spec: the Lumen Med Spa engagement
+
+Before opening Lesson 30, do the practitioner's version of this lesson on the shipped pack. Rebuild the cost floor and the price from the raw inputs, without looking at the totals, and compare your figures with engagement.json. Pick one scope line in the brief and trace it through the discovery notes to the evidence that justifies its price. Then write the one disagreement hunt: find the softest statement in the discovery notes (the diary access item is a fair target) and write the sentence you would send the client to resolve it in writing before building.
