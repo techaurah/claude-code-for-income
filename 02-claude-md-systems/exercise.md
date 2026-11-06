@@ -1,0 +1,3 @@
+# Exercise for Lesson 02: CLAUDE.md systems: memory that compounds
+
+Take a real project you own and split its current CLAUDE.md, or the one you wish it had, into the three layers. Move every personal rule to a user layer draft, every shared project rule to the project file, and every folder specific rule to a directory file. Then run `claude_md_lint.py` on the project file and remove or rewrite entries until it fits the budget with no missing sections. The change that matters: pick one rule that was previously buried in a long file and rewrite it as one line that names a command, a path, or a check, then note what behaviour it should change on the next session.
