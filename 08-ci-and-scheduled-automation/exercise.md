@@ -1,0 +1,3 @@
+# Exercise for Lesson 08: CI and scheduled automation: work that runs while you sleep
+
+Take three recurring jobs from your own practice that are not the worked example jobs: for instance a dependency check, a documentation freshness check, and a client report draft. Write each as a job dict for `schedule_plan.py` and record the recommended mode and reasons. Then change one constraint on purpose, such as making the machine unavailable or adding a repository event trigger, and note how the recommendation moves. Finish by writing the failure route for one job: where a failed run reports, who reads it, and by when. If you cannot name the reader, that job stays manual until you can.
