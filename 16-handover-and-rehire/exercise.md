@@ -1,0 +1,3 @@
+# Exercise for Lesson 16: Handover: documentation, training, and the rehire
+
+Write a project record JSON for a job you have delivered or the fixture job from Lesson 15, with all five required sections. Generate the pack with `handover_pack.py` and save it. Then remove the support terms and the next problem, regenerate, and read the missing section report. Restore the sections, and finish by writing the one hour training outline for this pack: the live walkthrough, the handover of controls, the deliberate small break and recovery, and the boundaries close, each with a time in minutes that sums to about an hour.
