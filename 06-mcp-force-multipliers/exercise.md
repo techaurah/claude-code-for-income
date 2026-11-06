@@ -1,0 +1,3 @@
+# Exercise for Lesson 06: MCP servers: connecting the agent to the client's world
+
+Change the server set. Invent a third server your practice might want, such as a calendar or a read only database server, and write its tool definitions as JSON: at least three tools, with real input schemas, not one line stubs. Save the full set (the demo tools plus yours) as a JSON list and run `tool_budget.py` on it against the lesson budget of 800 estimated tokens. If the set is over budget, do not raise the budget first. Narrow the third server: cut the tools the job does not need, shorten the descriptions, and run it again. Record the before and after totals and which tools you cut, because that decision, not the total, is the skill this lesson teaches.
