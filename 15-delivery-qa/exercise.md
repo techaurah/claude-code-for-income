@@ -1,0 +1,3 @@
+# Exercise for Lesson 15: Delivery QA: the review discipline that protects your rate
+
+Copy the `fixture/` delivery folder to a new folder of your own. First run `qa_gate.py` on the copy and save the passing JSON record. Then break it in two ways the lesson names: delete one required file, and add a text file containing a fake provider key in the common shape, clearly a test string and never a real key. Rerun the gate and save the failing record beside the first. Write two sentences on what changed in the record and what you would fix in the delivery, not in the gate, before either version could go to a client.
