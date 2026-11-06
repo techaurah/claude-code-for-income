@@ -1,0 +1,3 @@
+# Exercise for Lesson 10: The cost stack: plans, API, and free routes
+
+Build a profile JSON for your own last month: estimate your interactive hours, list your headless jobs with model class and token counts, and set your real target rate. Run it through `cost_stack.py` and write down the cheapest defensible route and its break-even hours. Then change one habit on paper, such as moving one job class from Opus to Sonnet or batching one overnight job, rerun the tool, and record what the change is worth per month. If the free route looks tempting for a client job, write the one honest sentence you would have to say to that client about it, and keep it with the profile.
