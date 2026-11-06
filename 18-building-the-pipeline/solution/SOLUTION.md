@@ -1,0 +1,5 @@
+# Solution for Lesson 18: Building the fulfilment pipeline
+
+The simulation is the worked solution. A clean order costs 90 human minutes: intake 5, scope check 15, build oversight 20, QA 25, delivery 10, support 15. Read the distribution, not just the total. More than half the human time sits in scope check, QA, and support, the three judgement stages. That is the design working as intended, and it is the number Lesson 20 divides your week by.
+
+ORD-2 shows the bounce priced in. It fails QA once, returns to build, and passes, for 135 human minutes total. Two lessons hide in that row. First, a one in three bounce rate at these values adds about 17 percent to the week's human load, which is survivable if planned and corrosive if not. Second, the bounce was caught by the gate before delivery, which is the cheapest place any defect can be found. The expensive version of ORD-2 is the one where the client finds the failure during their busiest evening and your support window starts with an apology.
