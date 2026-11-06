@@ -1,0 +1,5 @@
+# Solution for Lesson 06: MCP servers: connecting the agent to the client's world
+
+The demo set in `tool_budget.py` is the worked baseline: two small tools, each estimated by the chars divided by four heuristic, with a total well inside the 800 token budget the lesson sets. Adding a realistic third server with three full tools typically adds a few hundred estimated tokens. Whether it crosses the budget depends on schema size, which is exactly the point: broad tools with many optional fields cost context even when the job uses one field.
+
+A good exercise answer cuts in this order. First, tools the job never calls; they are pure overhead. Second, optional schema fields the job never sets; they can often be dropped from your working copy of the definition set when your client tooling allows it, or noted as the cost of that server. Last, description length, trimmed to one precise sentence per tool. If the set is still over budget after those cuts, connect the third server only for the sessions that need it. Keep the before and after output: on a client engagement, that small record is how you show the budget was managed, not ignored.
