@@ -1,0 +1,5 @@
+# Solution for Lesson 00: Course setup: environment, accounts, and your cost baseline
+
+The worked baseline in the checker template is a Max 5x plan at $100 a month, a $50 target rate, no platform fee (direct clients), and 40 available hours. Its break-even is 100 / 50 = **2.0 hours a month**: the plan costs money until Claude Code saves two billable hours monthly, and earns its place after. Two instructive variations: on Upwork at a 10% fee, the rate that reaches you is $45, and the same plan needs 100 / 45 = about 2.2 hours; on Pro at $20 with a $35 rate, break-even is about 0.57 hours, which is why the smallest plan is the rational start for a first client and Lesson 10 escalates only when the ledger says so.
+
+If your break-even came out larger than your plausible saved hours, the usual cause is a Max plan bought ahead of the workload. The fix is boring and correct: drop a tier until delivery volume justifies it, and let Lesson 11's measured cost per job, not optimism, argue for the upgrade later.
