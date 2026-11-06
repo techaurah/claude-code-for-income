@@ -1,0 +1,3 @@
+# Exercise for Lesson 01: The honest economics: where the money actually is
+
+Take one service you could plausibly sell (an integration, a chatbot build, a workflow automation) and classify it against this lesson's contrast: which parts of it are simple-end work the market is pricing down, and which parts are complex-end work (scoping, integration with a real system, accountability for the result) that the data says is rising? Then rewrite the service so the simple parts become the agent's job inside the offer and the complex parts become what the client is explicitly paying you for. Write the before and after down in two short paragraphs; Lesson 12 will turn the after version into an offer.
