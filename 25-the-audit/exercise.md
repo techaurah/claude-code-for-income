@@ -1,0 +1,3 @@
+# Exercise for Lesson 25: Automation consulting: the audit as the entry product
+
+Take a business you know well enough to interview, or invent one and say so. Complete the intake honestly, in bands, and run the scorer. Then write the three recommendation kinds for the weakest dimension: one fix by hand, one automation, and the strongest honest argument for doing nothing yet. Finally, draft the audit scope you would send before starting: the flow, the evidence, the deliverable, and the exclusions, in under 150 words. If you cannot write the exclusions without discomfort, your scope is not fixed yet.
