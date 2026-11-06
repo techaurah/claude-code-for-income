@@ -1,0 +1,5 @@
+# Solution for Lesson 08: CI and scheduled automation: work that runs while you sleep
+
+The demo jobs in `schedule_plan.py` are the worked solution, one per branch. A job needing repository events recommends the cloud scheduled task mode, because the trigger lives with the repository. A job that must keep session context recommends the in-session loop. A job with a human checkpoint recommends a background agent, which stays resumable. A clock job on an always on machine with its own scheduler recommends own cron running a capped headless command. A clock job without an always on machine falls back to a cloud scheduled task. Anything else bounded recommends plain headless mode.
+
+For the workflow, the shipped `claude-review.yml` is the solution shape: pull request trigger, the official `anthropics/claude-code-action@v1`, the API key read from repository secrets, and a prompt that reviews and comments without editing or approving. If your exercise changed a recommendation by moving one constraint, that sensitivity is the lesson. Mode choice is constraint choice, and stating the constraints honestly is most of the engineering.
