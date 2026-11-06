@@ -1,0 +1,5 @@
+# Solution for Lesson 04: Subagents and delegation: a team in a folder
+
+The simulator demo is the worked solution. With the demo tasks, `build_waves` returns the form task alone in wave one, the tests in wave two, and the review in wave three, because each step depends on the one before it. With `form` in the bounce set, the schedule gains a second attempt for the form task in its own wave, marked passed, before the dependent work proceeds in the printed order of events.
+
+Two checks decide whether your exercise split is good. First, no task shares a wave with a task it depends on; if it does, a dependency is missing from the list, not from reality. Second, every agent named in the schedule exists as a definition file with a tool list that fits its job. In the shipped pair, the reviewer has no edit tool and the test writer does, and that asymmetry is the lesson: delegation design is mostly boundary design. If your human gate answer named the client facing step, that matches the course pattern: internal steps can be agent gated, delivery to a client stays human gated until the system has earned trust on that exact step.
